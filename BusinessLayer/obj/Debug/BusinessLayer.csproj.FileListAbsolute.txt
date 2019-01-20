@@ -1,0 +1,6 @@
+E:\Utilisateurs\Desktop\ISIMA_COURS\WebServices-master\ThronesTournamentConsole\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Utilisateurs\Desktop\ISIMA_COURS\WebServices-master\ThronesTournamentConsole\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Utilisateurs\Desktop\ISIMA_COURS\WebServices-master\ThronesTournamentConsole\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+E:\Utilisateurs\Desktop\ISIMA_COURS\WebServices-master\ThronesTournamentConsole\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Utilisateurs\Desktop\ISIMA_COURS\WebServices-master\ThronesTournamentConsole\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Utilisateurs\Desktop\ISIMA_COURS\WebServices-master\ThronesTournamentConsole\BusinessLayer\obj\Debug\BusinessLayer.pdb

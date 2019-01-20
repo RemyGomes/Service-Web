@@ -1,0 +1,2 @@
+E:\Utilisateurs\Desktop\ISIMA_COURS\WebServices-master\ThronesTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.csprojAssemblyReference.cache
+E:\Utilisateurs\Desktop\ISIMA_COURS\WebServices-master\ThronesTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
